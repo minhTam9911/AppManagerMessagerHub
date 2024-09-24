@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\minht\\Desktop\\InternCEO3I\\AppManagerMessagerHub\\Source\\AppManagerMessagerHub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6192C9-5A71-424F-90EB-B5DE7EB4FB51}|Core\\Domain\\Domain.csproj|c:\\users\\minht\\desktop\\internceo3i\\appmanagermessagerhub\\source\\appmanagermessagerhub\\core\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6C6192C9-5A71-424F-90EB-B5DE7EB4FB51}|Core\\Domain\\Domain.csproj|solutionrelative:core\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19F4767D-E098-4DEC-BA03-9387F4205458}|Infrastructure\\Authentication\\Authentication.csproj|c:\\users\\minht\\desktop\\internceo3i\\appmanagermessagerhub\\source\\appmanagermessagerhub\\infrastructure\\authentication\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19F4767D-E098-4DEC-BA03-9387F4205458}|Infrastructure\\Authentication\\Authentication.csproj|solutionrelative:infrastructure\\authentication\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F2B0D0-105C-49DC-900A-F81CC6E56497}|Shared\\Common\\Common.csproj|c:\\users\\minht\\desktop\\internceo3i\\appmanagermessagerhub\\source\\appmanagermessagerhub\\shared\\common\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F2B0D0-105C-49DC-900A-F81CC6E56497}|Shared\\Common\\Common.csproj|solutionrelative:shared\\common\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E6FE51B-02B4-4B9F-BEE0-CDAA275B6EB3}|Infrastructure\\Presistence\\Presistence.csproj|c:\\users\\minht\\desktop\\internceo3i\\appmanagermessagerhub\\source\\appmanagermessagerhub\\infrastructure\\presistence\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E6FE51B-02B4-4B9F-BEE0-CDAA275B6EB3}|Infrastructure\\Presistence\\Presistence.csproj|solutionrelative:infrastructure\\presistence\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70D67C3-0943-428C-9E52-05BCD3CA06CD}|Core\\Application\\Application.csproj|c:\\users\\minht\\desktop\\internceo3i\\appmanagermessagerhub\\source\\appmanagermessagerhub\\core\\application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70D67C3-0943-428C-9E52-05BCD3CA06CD}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6192C9-5A71-424F-90EB-B5DE7EB4FB51}|Core\\Domain\\Domain.csproj|c:\\users\\minht\\desktop\\internceo3i\\appmanagermessagerhub\\source\\appmanagermessagerhub\\core\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6192C9-5A71-424F-90EB-B5DE7EB4FB51}|Core\\Domain\\Domain.csproj|solutionrelative:core\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 173,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Domain",
+              "DocumentMoniker": "C:\\Users\\minht\\Desktop\\InternCEO3I\\AppManagerMessagerHub\\Source\\AppManagerMessagerHub\\Core\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Core\\Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\minht\\Desktop\\InternCEO3I\\AppManagerMessagerHub\\Source\\AppManagerMessagerHub\\Core\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Core\\Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-24T05:03:59.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\minht\\Desktop\\InternCEO3I\\AppManagerMessagerHub\\Source\\AppManagerMessagerHub\\Infrastructure\\Authentication\\Class1.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Authentication\\Class1.cs",
+              "ToolTip": "C:\\Users\\minht\\Desktop\\InternCEO3I\\AppManagerMessagerHub\\Source\\AppManagerMessagerHub\\Infrastructure\\Authentication\\Class1.cs",
+              "RelativeToolTip": "Infrastructure\\Authentication\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T04:43:01.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\minht\\Desktop\\InternCEO3I\\AppManagerMessagerHub\\Source\\AppManagerMessagerHub\\Shared\\Common\\Class1.cs",
+              "RelativeDocumentMoniker": "Shared\\Common\\Class1.cs",
+              "ToolTip": "C:\\Users\\minht\\Desktop\\InternCEO3I\\AppManagerMessagerHub\\Source\\AppManagerMessagerHub\\Shared\\Common\\Class1.cs",
+              "RelativeToolTip": "Shared\\Common\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T04:41:38.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\minht\\Desktop\\InternCEO3I\\AppManagerMessagerHub\\Source\\AppManagerMessagerHub\\Infrastructure\\Presistence\\Class1.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Presistence\\Class1.cs",
+              "ToolTip": "C:\\Users\\minht\\Desktop\\InternCEO3I\\AppManagerMessagerHub\\Source\\AppManagerMessagerHub\\Infrastructure\\Presistence\\Class1.cs",
+              "RelativeToolTip": "Infrastructure\\Presistence\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T04:39:52.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\minht\\Desktop\\InternCEO3I\\AppManagerMessagerHub\\Source\\AppManagerMessagerHub\\Core\\Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\minht\\Desktop\\InternCEO3I\\AppManagerMessagerHub\\Source\\AppManagerMessagerHub\\Core\\Application\\Class1.cs",
+              "RelativeToolTip": "Core\\Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T04:37:18.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\minht\\Desktop\\InternCEO3I\\AppManagerMessagerHub\\Source\\AppManagerMessagerHub\\Core\\Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Core\\Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\minht\\Desktop\\InternCEO3I\\AppManagerMessagerHub\\Source\\AppManagerMessagerHub\\Core\\Domain\\Class1.cs",
+              "RelativeToolTip": "Core\\Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T04:35:50.751Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
